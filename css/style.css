@@ -16,7 +16,7 @@
     text-align: center;
     
 }
-p{
+.bg-p{
     background-color: aqua;
     text-align: right;
 }
@@ -26,4 +26,12 @@ body{
 
 h2{
     background-color: purple;
+}
+
+#bg-p1{
+    background-color: yellow;
+}
+
+#bg-p2{
+    background-color:blueviolet;
 }
