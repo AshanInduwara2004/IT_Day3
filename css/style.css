@@ -1,0 +1,29 @@
+.bg-red-h1 {
+    background-color: red;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.bg-green-h1 {
+    background-color: green;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.bg-blue-h1{
+    background-color: blue;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+p{
+    background-color: aqua;
+    text-align: right;
+}
+body{
+    color: black;
+}
+
+h2{
+    background-color: purple;
+}
