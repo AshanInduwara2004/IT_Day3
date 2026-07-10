@@ -2,6 +2,15 @@
     background-color: red;
     color: rgb(255, 255, 255);
     text-align: center;
+    /* padding: 10px;  */
+    /* padding:10px 20px 30px 40px; */
+    /* padding-left: 20px;
+    padding-top: 10px; */
+    border: 3px solid rgb(0, 0, 0);
+    margin: 10px;   
+    /* border-radius: 2px; */
+    /* border-color: aqua; */
+    bo
 }
 
 .bg-green-h1 {
@@ -14,15 +23,20 @@
     background-color: blue;
     color: rgb(255, 255, 255);
     text-align: center;
-    
+    font-family: fantasy;
+    font-size: smaller;
+    text-align: center;
+    letter-spacing: 1cap;
+    text-decoration: underline dotted;
+
+     
+
 }
 .bg-p{
     background-color: aqua;
     text-align: right;
 }
-body{
-    color: black;
-}
+
 
 h2{
     background-color: purple;
@@ -34,4 +48,8 @@ h2{
 
 #bg-p2{
     background-color:blueviolet;
+}
+
+*{
+    margin:0;
 }
